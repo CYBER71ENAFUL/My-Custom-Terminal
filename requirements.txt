@@ -1,7 +1,7 @@
 # ============================================================================
-# W8TermuxStylePro - Requirements
+# Custom-Terminal - Requirements
 # Version: 3.0
-# GitHub: https://github.com/W8SOJIB/W8TermuxStylePro
+# GitHub: https://github.com/CYBER71ENAFUL/My-Custom-Terminal.git
 # ============================================================================
 
 # ============================================================================
@@ -36,7 +36,7 @@
 # ============================================================================
 #
 # Simply run the generator script:
-#   python W8TermuxStylePro.py
+#   python Custom-Terminal.py
 #
 # Or on Linux:
 #   python3 Terminal_Generator.py
@@ -68,9 +68,10 @@
 # CREDITS
 # ============================================================================
 #
-# Created by: W8Team/W8SOJIB
-# Repository: https://github.com/W8SOJIB/W8TermuxStylePro
+# Created by: 71Team/ENAFUL
+# Repository: https://github.com/CYBER71ENAFUL/My-Custom-Terminal.git
 # License: MIT
 #
 # ============================================================================
+
 
