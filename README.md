@@ -1,4 +1,4 @@
-# 🌐CYBER🌐71🌐ENAFUL🌐 - W8TermuxStylePro
+# 🌐CYBER🌐71🌐ENAFUL🌐 - Custom-Terminal
 
 Custom stylish terminal with advanced cyberpunk aesthetics.
 
